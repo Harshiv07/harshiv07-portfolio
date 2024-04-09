@@ -35,12 +35,14 @@ const projects = [
     modalContent: (
       <>
         <p>
-          Built a pipeline to identify gazed objects from an uploaded image.
+          Created a one-stop platform for clubs to reach out to the students and
+          share information about their club and upcoming events. Won 2nd prize
+          for it in a WMC 2.0 Hackathon
         </p>
         <p>
-          Delivered the functionality as a SaaS to include services of uploading
-          images, storing them to AWS EC2 instance, and executing trained ML
-          models to generate outputs.
+          A MERN stack web application with different role authentication,
+          validation checks, live updates, event management, club management,
+          and event feedback for clubs
         </p>
       </>
     ),
