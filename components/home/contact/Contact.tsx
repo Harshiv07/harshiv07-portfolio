@@ -8,19 +8,19 @@ export const Contact = () => {
     <section className='section-wrapper' id='contact'>
       <div className={styles.contactWrapper}>
         <Reveal width='100%'>
-          <h4 className={styles.contactTitle}>Let's Connect!</h4>
+          <h4 className={styles.contactTitle}>Let&apos;s Connect!</h4>
         </Reveal>
         <Reveal width='100%'>
           <p className={styles.contactCopy}>
-            I'm open to discussing any opportunities, hackathon events, and
-            projects. Please reach out via my email or{" "}
+            I&apos;m open to discussing any opportunities, hackathon events, and
+            projects. Please reach out via my email or
             <Link
               href='https://www.linkedin.com/in/harshiv07/'
               target='_blank'
               rel='nofollow'
             >
               Linkedin
-            </Link>{" "}
+            </Link>
           </p>
         </Reveal>
         <Reveal width='100%'>

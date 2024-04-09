@@ -14,7 +14,7 @@ export const Overview = () => {
         <div>
           <Reveal>
             <p className={`${styles.overviewText}`}>
-              Hey! I am pursuing a Master's in Computer Science at Lakehead
+              Hey! I am pursuing a Master&apos;s in Computer Science at Lakehead
               University and recently completed my co-op as a software developer
               intern at Ceridian.
               <br />
@@ -49,7 +49,7 @@ export const Overview = () => {
               I am always open to discussing collaborating opportunities,
               technical solutions, jobs, and hackathon ideas to become a 100x
               developer. If you&apos;re interested in working together or have
-              any questions, please reach out!{" "}
+              any questions, please reach out!
               <Link
                 href='https://www.linkedin.com/in/harshiv07/'
                 target='_blank'
